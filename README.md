@@ -1,5 +1,5 @@
-# AI-for-Trading-Nanodegree-Udacity
-# Courses
+# AI-for-Trading
+# Outline
 <ul>
   <li>Market Mechanics</li>
 <li>Data Processing</li>
